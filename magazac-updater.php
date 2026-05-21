@@ -2,7 +2,7 @@
 /*
 Plugin Name: Magazac Updater
 Description: Otomatik Site Güncelleme Eklentisi
-Version: 1.6
+Version: 2.0
 Author: Magazac
 * GitHub Plugin URI: https://github.com/adminmagazify/magazac-updater
 */
